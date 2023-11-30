@@ -41,6 +41,18 @@
       "name": "Fiddle Leaf Fig",
       "image": "./images/fiddle-leaf-fig.jpg",
       "price": 55
+    },
+    {
+      "name": "Aloe Ultra",
+      "image": "https://www.gardendesign.com/pictures/images/900x705Max/dream-team-s-portland-garden_6/chinese-evergreen-plant-aglaonema-shutterstock-com_15962.jpg",
+      "price": "12.32",
+      "id": 8
+    },
+    {
+      "name": "Aloe Ultra",
+      "image": "https://www.gardendesign.com/pictures/images/900x705Max/dream-team-s-portland-garden_6/chinese-evergreen-plant-aglaonema-shutterstock-com_15962.jpg",
+      "price": "23",
+      "id": 9
     }
   ]
 }
